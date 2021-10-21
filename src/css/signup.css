@@ -2,3 +2,10 @@
     height: 30%;
     width: 30%;
 }
+
+
+#button{
+    border:2px solid black;
+    color: white !important;
+    background-color: black;
+}

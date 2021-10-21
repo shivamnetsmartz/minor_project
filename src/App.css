@@ -39,7 +39,7 @@ body {
     -o-object-fit: cover;
        object-fit: cover; }
   .login-card .card-body {
-    padding: 85px 60px 60px; }
+    padding: 85px 48px 60px; }
     @media (max-width: 422px) {
       .login-card .card-body {
         padding: 35px 24px; } }
@@ -115,10 +115,6 @@ body {
   z-index: 2;
 }
 
-.row{
-  margin: 0 5% 0 5%;
-}
-
 .row1{
   margin: 0 5% 0 20%;
 }
@@ -136,4 +132,11 @@ body {
   width: 100%;
 } 
 
+.d-block {
+  height: 700px;
+}
 
+
+.card-text{
+  justify-content: center;
+}

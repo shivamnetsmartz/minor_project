@@ -5,10 +5,10 @@ const footer = () => {
     return (
 
 
-        <footer class="text-center text-lg-start bg-dark text-muted" id="footer">
+        <footer className="text-center text-lg-start bg-dark text-muted" id="footer">
 
             <section
-                class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom"
+                className="d-flex justify-content-center justify-content-lg-between p-4 border-bottom"
             >
 
                 
@@ -16,36 +16,36 @@ const footer = () => {
 
                 <div>
                 <span className="span text-center mr-3">Get connected with us on social networks:</span>
-      <div class="wrapper">
-         <div class="icon facebook">
-            <div class="tooltip">
+      <div className="wrapper">
+         <div className="icon facebook">
+            <div className="tooltip">
                Facebook
             </div>
-            <span><i class="fab fa-facebook-f"></i></span>
+            <span><i className="fab fa-facebook-f"></i></span>
          </div>
-         <div class="icon twitter">
-            <div class="tooltip">
+         <div className="icon twitter">
+            <div className="tooltip">
                Twitter
             </div>
-            <span><i class="fab fa-twitter"></i></span>
+            <span><i className="fab fa-twitter"></i></span>
          </div>
-         <div class="icon instagram">
-            <div class="tooltip">
+         <div className="icon instagram">
+            <div className="tooltip">
                Instagram
             </div>
-            <span><i class="fab fa-instagram"></i></span>
+            <span><i className="fab fa-instagram"></i></span>
          </div>
-         <div class="icon github">
-            <div class="tooltip">
+         <div className="icon github">
+            <div className="tooltip">
                Github
             </div>
-            <span><i class="fab fa-github"></i></span>
+            <span><i className="fab fa-github"></i></span>
          </div>
-         <div class="icon youtube">
-            <div class="tooltip">
+         <div className="icon youtube">
+            <div className="tooltip">
                YouTube
             </div>
-            <span><i class="fab fa-youtube"></i></span>
+            <span><i className="fab fa-youtube"></i></span>
          </div>
       </div>
    
@@ -55,15 +55,15 @@ const footer = () => {
 
 
 
-            <section class="">
-                <div class="container text-center text-md-start mt-5">
+            <section className="">
+                <div className="container text-center text-md-start mt-5">
 
-                    <div class="row mt-3" id="row">
+                    <div className="row mt-3" id="row">
 
-                        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+                        <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
 
-                            <h6 class="text-uppercase fw-bold mb-4">
-                                <i class="fas fa-gem me-3"></i>SFS School
+                            <h6 className="text-uppercase fw-bold mb-4">
+                                <i className="fas fa-gem me-3"></i>SFS School
                             </h6>
                             <p className="text-justify">
                                 Sebiz can help you achieve your IT and training goals. We are the IT partner you can depend on to increase business efficiencies and help your business be more visible online.  To date we have more than 3000 projects under our belt and many more underway.
@@ -72,54 +72,54 @@ const footer = () => {
 
 
 
-                        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                        <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
 
-                            <h6 class="text-uppercase fw-bold mb-4">
+                            <h6 className="text-uppercase fw-bold mb-4">
                                 Products
                             </h6>
                             <p>
-                                <a href="#!" class="text-reset">Angular</a>
+                                <a href="#!" className="text-reset">Angular</a>
                             </p>
                             <p>
-                                <a href="#!" class="text-reset">React</a>
+                                <a href="#!" className="text-reset">React</a>
                             </p>
                             <p>
-                                <a href="#!" class="text-reset">Vue</a>
+                                <a href="#!" className="text-reset">Vue</a>
                             </p>
                             <p>
-                                <a href="#!" class="text-reset">Laravel</a>
+                                <a href="#!" className="text-reset">Laravel</a>
                             </p>
                         </div>
 
 
 
-                        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+                        <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
 
-                            <h6 class="text-uppercase fw-bold mb-4">
+                            <h6 className="text-uppercase fw-bold mb-4">
                                 Useful links
                             </h6>
                             <p>
-                                <a href="#!" class="text-reset">Pricing</a>
+                                <a href="#!" className="text-reset">Pricing</a>
                             </p>
                             <p>
-                                <a href="#!" class="text-reset">Settings</a>
+                                <a href="#!" className="text-reset">Settings</a>
                             </p>
                             <p>
-                                <a href="#!" class="text-reset">Orders</a>
+                                <a href="#!" className="text-reset">Orders</a>
                             </p>
                             <p>
-                                <a href="#!" class="text-reset">Help</a>
+                                <a href="#!" className="text-reset">Help</a>
                             </p>
                         </div>
 
-                        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+                        <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
 
-                            <h6 class="text-uppercase fw-bold mb-4">
+                            <h6 className="text-uppercase fw-bold mb-4">
                                 Contact
                             </h6>
-                            <p><i class="fas fa-home me-3"></i> Plot No. IT-C-6 Sebiz Square IT Park Road, Sector 67, Sahibzada Ajit Singh Nagar, Punjab 160062</p>
-                            <p><i class="fas fa-envelope me-3"></i>project@example.com</p>
-                            <p><i class="fas fa-phone me-3"></i> +91-6283479730</p>
+                            <p><i className="fas fa-home me-3"></i> Plot No. IT-C-6 Sebiz Square IT Park Road, Sector 67, Sahibzada Ajit Singh Nagar, Punjab 160062</p>
+                            <p><i className="fas fa-envelope me-3"></i>project@example.com</p>
+                            <p><i className="fas fa-phone me-3"></i> +91-6283479730</p>
                            
                         </div>
 
@@ -130,9 +130,9 @@ const footer = () => {
 
 
 
-            <div class="text-center p-4" id="copy">
+            <div className="text-center p-4" id="copy">
                 © 2021 Copyright:
-                <NavLink class="text-reset fw-bold" to="/">SFS School</NavLink>
+                <NavLink className="text-reset fw-bold" to="/">SFS School</NavLink>
             </div>
 
         </footer>
